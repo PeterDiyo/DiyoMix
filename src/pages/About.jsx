@@ -15,7 +15,7 @@ const About = () => {
       <br />
       <div>
         <h4>
-          Developer: <a href="https://peterdiyo.com">Peter Diyo</a>
+          Developer: <a href="https://peterdiyo.netlify.app">Peter Diyo</a>
         </h4>
       </div>
     </Wrapper>
