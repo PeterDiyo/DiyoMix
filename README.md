@@ -25,10 +25,6 @@ Contributions to DiyoMix are welcome!
 
 - Peter Diyo - Developer
 
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md] file for details.
-
 ## Acknowledgments
 
 - Special thanks to John Smilga from Coding Addict, I sharpened my react knowledge through his react course(Udemy + Youtube)
