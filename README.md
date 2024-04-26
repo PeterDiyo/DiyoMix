@@ -27,4 +27,4 @@ Contributions to DiyoMix are welcome!
 
 ## Acknowledgments
 
-- Special thanks to John Smilga from Coding Addict, I sharpened my react knowledge through his react course(Udemy + Youtube)
+- Special thanks to John Smilga from Coding Addict, I sharpened my react knowledge through his react courses(Udemy + Youtube)
